@@ -33,12 +33,12 @@
     },
     "TZ": {
       "description": " الوقت",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "Telethon-Ar",
+      "value": "Talithoun-Muhammad",
       "required": false
     }
   },
